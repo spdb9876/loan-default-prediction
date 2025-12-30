@@ -4,7 +4,7 @@ Source:
 https://www.kaggle.com/datasets/nikhil1e9/loan-default
 
 Description:
-This dataset contains loan applicant information along with a default indicator. It is a single-file dataset with approximately 250,000 records and 18 features. The dataset has a simple and clean tabular structure, making it suitable for baseline loan default prediction analysis.
+This dataset contains loan applicant information along with a default indicator. It is a single-file dataset with approximately 250,000 records and 18 features. The dataset has a simple and clean tabular structure, making it suitable for baseline analysis pf loan default prediction.
 
 Why it is interesting:
 Due to its simplicity and well-structured format, this dataset is useful for quickly understanding the fundamentals of loan default prediction without complex data integration.

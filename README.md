@@ -1,12 +1,12 @@
 # loan-default-prediction - Data Collection (Step2)
 Loan Default Prediction - Data Collection &amp; Exploration
 
-##Project objective
+## Project objective
 Capstone Project: Data Collection 
 Collect the data for the Capstone project "Loan Default Prediction" from the right source(s).
 The goal of the project is to predict loan default risk using borrower and credit history data
 
-##Datasets explored (list)
+## Datasets explored (list)
 Three datasets related to loan default prdiction were explored
 1. Loan Default Dataset (Kaggle)
 2. Home Credit Default Risk Dataset (Kaggle)
@@ -14,7 +14,7 @@ Three datasets related to loan default prdiction were explored
 
 Details are provided in data_exploration.md
 
-#Final dataset chosen
+# Final dataset chosen
 The Home Credit Default Rsik Dataset was selected as final dataset due to its size, 
 real world complexity and rich historical information. The dataset contains multiple 
 related tables and over 300,00 loan applcations.

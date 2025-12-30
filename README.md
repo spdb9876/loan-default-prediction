@@ -22,7 +22,7 @@ related tables and over 300,00 loan applcations.
 Given my prior experiecne working with large datasets in work domain this dataset 
 provides an opportunuty to apply relation data concepts while leaning Machine Learning.
 
-Link to large dataset
+# Link to large dataset
 Due to large size of dataset (greater than 2 GB) the data is not directly stored  in this 
-repository. The original dataset can b accessed at :
+repository. The original dataset can be accessed at :
 https://www.kaggle.com/competitions/home-credit-default-risk/data

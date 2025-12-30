@@ -53,7 +53,18 @@ The primary dataset used for prediction is application_train.csv.
 To keep the project scope manageable while still incorporating meaningful historical credit information, bureau.csv is selected as a secondary dataset for potential feature enrichment in later stages.
    
 
-# Dataset 3 Description
+# Dataset 3 Financial Loan Default
 Source: https://relational.fel.cvut.cz/dataset/Financial
+Description:
+The PKDD’99 Financial dataset is a well-known relational dataset used for loan default classification tasks. It contains information about 682 loans, including successful and unsuccessful loan outcomes, along with detailed financial and transactional data.
 
+The dataset consists of 8 relational tables and contains approximately 1 million records across all tables. The target variable (status) is located in the loan table and represents the loan repayment outcome.
 
+Why it is interesting:
+This dataset provides a realistic relational data model with multiple interconnected tables, making it suitable for studying loan default prediction using historical financial transactions and account-level information.
+
+Prediction Potential:
+Binary classification to predict loan repayment status based on aggregated transactional and financial features.
+
+Reason for Not Selecting as Final Dataset:
+Although this dataset was explored as a potential option, it requires database-specific setup using MariaDB to load, query, and export the data. To keep the project focused on data exploration and machine learning concepts rather than database configuration and data extraction workflows, a CSV-based dataset was selected as the final dataset.
